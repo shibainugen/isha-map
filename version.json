@@ -1,0 +1,5 @@
+{
+ "version": "2.42.0",
+ "zip": "https://raw.githubusercontent.com/shibainugen/isha-map/release/aoba-isha-map.zip?v=2.42.0",
+ "notes": "都道府県ごとのページ /ken/{県}/ を追加（市区町村ごとに駅・診療科へのリンク）。駅から探すを47都道府県の入口に軽量化。サイトマップに県ページ"
+}
