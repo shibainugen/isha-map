@@ -1,5 +1,5 @@
 {
- "version": "2.42.0",
- "zip": "https://raw.githubusercontent.com/shibainugen/isha-map/release/aoba-isha-map.zip?v=2.42.0",
- "notes": "都道府県ごとのページ /ken/{県}/ を追加（市区町村ごとに駅・診療科へのリンク）。駅から探すを47都道府県の入口に軽量化。サイトマップに県ページ"
+ "version": "2.42.1",
+ "zip": "https://raw.githubusercontent.com/shibainugen/isha-map/release/aoba-isha-map.zip?v=2.42.1",
+ "notes": "地図ピン18件の位置と最寄り駅を修正。電話番号4件と公式URL、桜木・あらきの診療時間を追加。サイトマップに条件を満たした6件を追加。"
 }
