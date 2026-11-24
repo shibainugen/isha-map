@@ -1,5 +1,5 @@
 {
- "version": "2.42.1",
- "zip": "https://raw.githubusercontent.com/shibainugen/isha-map/release/aoba-isha-map.zip?v=2.42.1",
- "notes": "地図ピン18件の位置と最寄り駅を修正。電話番号4件と公式URL、桜木・あらきの診療時間を追加。サイトマップに条件を満たした6件を追加。"
+ "version": "2.43.0",
+ "zip": "https://raw.githubusercontent.com/shibainugen/isha-map/release/aoba-isha-map.zip?v=2.43.0",
+ "notes": "施設URLを小文字ID・5桁IDに対応。入れ物URLは410とrobots.txtで除外。診療科一覧と症状ページに静的HTMLリンクを追加。閉院はサイトマップから外し、既定で410（指定時は301）で返す。"
 }
