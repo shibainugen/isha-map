@@ -1,5 +1,5 @@
 {
- "version": "2.43.0",
- "zip": "https://raw.githubusercontent.com/shibainugen/isha-map/release/aoba-isha-map.zip?v=2.43.0",
- "notes": "施設URLを小文字ID・5桁IDに対応。入れ物URLは410とrobots.txtで除外。診療科一覧と症状ページに静的HTMLリンクを追加。閉院はサイトマップから外し、既定で410（指定時は301）で返す。"
+ "version": "2.43.1",
+ "zip": "https://raw.githubusercontent.com/shibainugen/isha-map/release/aoba-isha-map.zip?v=2.43.1",
+ "notes": "藤沢問心堂心療内科を非表示（410）。サイトマップと一覧からも外す。"
 }
