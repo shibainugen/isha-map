@@ -1,5 +1,5 @@
 {
- "version": "2.43.1",
- "zip": "https://raw.githubusercontent.com/shibainugen/isha-map/release/aoba-isha-map.zip?v=2.43.1",
- "notes": "藤沢問心堂心療内科を非表示（410）。サイトマップと一覧からも外す。"
+ "version": "2.44.0",
+ "zip": "https://raw.githubusercontent.com/shibainugen/isha-map/release/aoba-isha-map.zip?v=2.44.0",
+ "notes": "公式で確認できたホームページURLの修正（誤リンク・表記ゆれの解消）。問心堂の非表示（410）は継続。ピン・noindex対象院は既に反映済みのため変更なし。"
 }
