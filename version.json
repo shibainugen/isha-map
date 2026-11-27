@@ -1,5 +1,5 @@
 {
- "version": "2.44.0",
- "zip": "https://raw.githubusercontent.com/shibainugen/isha-map/release/aoba-isha-map.zip?v=2.44.0",
- "notes": "公式で確認できたホームページURLの修正（誤リンク・表記ゆれの解消）。問心堂の非表示（410）は継続。ピン・noindex対象院は既に反映済みのため変更なし。"
+ "version": "2.45.0",
+ "zip": "https://raw.githubusercontent.com/shibainugen/isha-map/release/aoba-isha-map.zip?v=2.45.0",
+ "notes": "いとう横浜クリニックを非表示（410）し、承継先のたまプラーザ脳神経クリニックを新規登録。渡邊醫院の廃止済みジオシティーズURLを公式（Biglobe）に差し替え。410ページからJSON-LDを出さない、医院ページの不適切なArticle構造化データを外す、サイトマップにlastmod、descriptionの重複解消。"
 }
